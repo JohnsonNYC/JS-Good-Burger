@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,30 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Shack",
+      "description": "Awesome",
+      "image": "google.com",
+      "id": 12
+    },
+    {
+      "name": "Shack",
+      "description": "Amazing",
+      "image": "https://prods3.imgix.net/images/articles/2017_05/Non-Feature-shake-shack-cheese-burger-recipe.jpg?auto=format%2Ccompress&ixjsv=2.2.3&w=750",
+      "id": 13
+    },
+    {
+      "name": "InNout",
+      "description": "its okay",
+      "image": "https://www.in-n-out.com/ResourcePackages/INNOUT/content/images/menu/cheeseburger-meal.png?package=INNOUT",
+      "id": 14
+    },
+    {
+      "name": "In N out",
+      "description": "fantastic",
+      "image": "https://www.in-n-out.com/ResourcePackages/INNOUT/content/images/menu/cheeseburger-meal.png?package=INNOUT",
+      "id": 15
     }
   ]
 }
